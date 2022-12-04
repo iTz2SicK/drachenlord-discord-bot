@@ -3,7 +3,7 @@ services:
   drachenlord:
     build: .
     environment:
-      DISCORD_API_TOKEN: <your-discord-api-token>
+      DISCORD_API_TOKEN: <MTA0ODk3MTMzNjUzNTUxOTI1Mg.GpkQpL.CHDbbbajkj9p2xZG1Qgjhr4aoLFC28L_sBxBe8>
       ENABLE_RANDOM_JOINS: "True"
       LOGGING_CHANNEL: <your-logging-textchannel-id-as-integer>
       BLACKLISTED_GUILDS: "123x,456y"
